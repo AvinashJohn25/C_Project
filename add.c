@@ -13,5 +13,7 @@ int main()
    printf("\n Divison = %d",c);
    c = a*b;
    printf("\n Multiplication= %d",c);
+   c = a|b;
+   printf("\n Bitwise= %d",c);
    return 0;
 }
