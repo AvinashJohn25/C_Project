@@ -6,8 +6,8 @@ int main()
    printf("Enter two numbers to be added:\n");
    scanf("%d %d",&a,&b);
    c = a+b;
-   printf("Total Sum = %d",c);
-   c = a-b:
-   printf("Difference= %d",c);
+   printf("\n Total Sum = %d",c);
+   c = a-b;
+   printf("\n Difference= %d",c);
    return 0;
 }
