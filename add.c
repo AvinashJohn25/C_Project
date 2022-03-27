@@ -7,7 +7,7 @@ int main()
    scanf("%d %d",&a,&b);
    c = a+b;
    printf("\n Total Sum = %d",c);
-   c = a-b;
-   printf("\n Difference= %d",c);
+   c = a*b;
+   printf("\n Multiplication= %d",c);
    return 0;
 }
